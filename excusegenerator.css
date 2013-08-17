@@ -1,0 +1,24 @@
+body{
+		background:url("stripe.png");
+	}
+	.main{
+		background:rgba(255,255,255,0.9);
+		padding:10px;
+		width:40%;
+		left:30%;
+		position:relative;
+		font-size:120%;
+	}
+
+	#excuse{
+		width:98%; background:black;color:#50C878;
+		font-size:inherit;
+
+	}
+	textarea{
+		font-size:inherit;
+	}
+
+	#generate{
+		width:97%;
+	}
