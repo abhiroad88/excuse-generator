@@ -5,7 +5,8 @@ var leadins=[
 "You won't beleive this:",
 "This sounds crazy, but",
 "This sounds unbeleivable but",
-"Holy shit!"
+"Holy shit!",
+"Oh man, "
 
 ]
 
@@ -13,7 +14,7 @@ var perpetrators = [
 
 "the lord of darkness",
 "Godzilla",
-"the writer of the human centipede",
+"the human centipede",
 "a tiny lizard",
 "the first page of Twilight",
 "the inventor of the slanket",
@@ -22,12 +23,20 @@ var perpetrators = [
 "a man with six fingers on his hand",
 "Mayor McCheese",
 "Red Foreman",
-"Fez",
 "Scrooge McDuck",
 "the Ghostbusters",
 "Diablo, the god of death",
 "Harry Potter",
-"Captain Kirk"
+"Captain Kirk",
+"Dobby the elf",
+"Sherlock Holmes",
+"my speakers",
+"Chtulu",
+"a homeless guy",
+"a frag grenade",
+"a lady with a spandex watch",
+"a toothpick",
+"the creators of southpark"
 ]
 
 var factors=[
@@ -43,7 +52,12 @@ var factors=[
 "dropped kicked me into another dimension",
 "ripped a hole in the space time continuum",
 "did a moonwalk on my porsche",
-"TPed by house"
+"TPed by house",
+"killed Kenny",
+"sent me to Narnia",
+"gave me a hickey",
+"set my house on fire",
+"kidnapped my lizard"
 
 ]
 
